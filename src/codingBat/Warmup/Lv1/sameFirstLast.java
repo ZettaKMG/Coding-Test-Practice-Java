@@ -6,8 +6,8 @@ public class sameFirstLast {
 		if (nums.length > 0) {				
 			return nums[0] == nums[nums.length - 1];				
 		} else {						
-			return false;	
-			
-		}			
+			return false;				
+		}	
+		
 	}
 }
