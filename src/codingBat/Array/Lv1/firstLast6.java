@@ -1,4 +1,4 @@
-package codingBat.Warmup.Lv1;
+package codingBat.Array.Lv1;
 
 public class firstLast6 {
 	public boolean firstLast6(int[] nums) {		
