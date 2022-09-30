@@ -1,7 +1,7 @@
 package codingBat.Logic.Lv1;
 
 public class caughtSpeeding {
-	public int caughtSpeeding(int speed, boolean isBirthday) {
+	public int caughtSpeeding (int speed, boolean isBirthday) {
 		
 		int limit1 = 61;
 		int limit2 = 81;
