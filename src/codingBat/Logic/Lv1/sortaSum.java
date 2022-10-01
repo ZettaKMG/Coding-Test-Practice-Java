@@ -1,7 +1,7 @@
 package codingBat.Logic.Lv1;
 
 public class sortaSum {
-	public int sortaSum (int a, int b) {
+	public int sortaSum(int a, int b) {
 		
 		int sum = a + b;
 		

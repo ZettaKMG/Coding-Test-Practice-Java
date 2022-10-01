@@ -1,7 +1,7 @@
 package codingBat.Logic.Lv1;
 
 public class alarmClock {
-	public String alarmClock (int day, boolean vacation) {
+	public String alarmClock(int day, boolean vacation) {
 		
 		String early;
 		String late;
