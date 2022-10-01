@@ -1,7 +1,7 @@
 package codingBat.Logic.Lv1;
 
 public class dateFashion {
-	public int dateFashion (int you, int date) {
+	public int dateFashion(int you, int date) {
 		
 		int result = 1;
 		
