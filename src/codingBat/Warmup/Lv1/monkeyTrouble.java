@@ -1,7 +1,7 @@
 package codingBat.Warmup.Lv1;
 
 public class monkeyTrouble {
-	public boolean monkeyTrouble (boolean aSmile, boolean bSmile) {
+	public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
 		
 //		return (aSmile && bSmile) || (!aSmile && !bSmile);
 		
