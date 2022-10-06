@@ -1,5 +1,13 @@
 package codingBat.Functional.Lv1;
 
-public class addStar {
+import java.util.List;
 
+public class addStar {
+	public List<String> addStar(List<String> strings) {
+		
+		strings.replaceAll(s -> s + "*");
+		
+		return strings;
+		
+	}
 }
