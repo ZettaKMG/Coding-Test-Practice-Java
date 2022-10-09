@@ -3,8 +3,7 @@ package codingBat.Array.Lv2;
 public class sum67 {
 	public int sum67(int[] nums) {
 		
-		int total = 0;
-		
+		int total = 0;		
 		int i = 0;
 		
 		while (i < nums.length) {
