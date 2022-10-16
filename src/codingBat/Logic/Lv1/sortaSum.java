@@ -1,4 +1,4 @@
-package codingBat.Logic.Lv1;
+package CodingBat.Logic.Lv1;
 
 public class sortaSum {
 	public int sortaSum(int a, int b) {

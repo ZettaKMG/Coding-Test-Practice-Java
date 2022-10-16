@@ -1,4 +1,4 @@
-package codingBat.Warmup.Lv1;
+package CodingBat.Warmup.Lv1;
 
 public class makes10 {
 	public boolean makes10(int a, int b) {

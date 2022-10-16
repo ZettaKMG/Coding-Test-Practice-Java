@@ -1,4 +1,4 @@
-package codingBat.Logic.Lv1;
+package CodingBat.Logic.Lv1;
 
 public class squirrelPlay {
 	public boolean squirrelPlay(int temp, boolean isSummer) {

@@ -1,4 +1,4 @@
-package codingBat.Warmup.Lv1;
+package CodingBat.Warmup.Lv1;
 
 public class parrotTrouble {
 	public boolean parrotTrouble(boolean talking, int hour) {

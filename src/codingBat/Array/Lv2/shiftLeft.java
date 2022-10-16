@@ -1,4 +1,4 @@
-package codingBat.Array.Lv2;
+package CodingBat.Array.Lv2;
 
 public class shiftLeft {
 	public int[] shiftLeft(int[] nums) {

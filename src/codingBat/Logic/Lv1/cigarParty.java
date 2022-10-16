@@ -1,4 +1,4 @@
-package codingBat.Logic.Lv1;
+package CodingBat.Logic.Lv1;
 
 public class cigarParty {
 	public boolean cigarParty(int cigars, boolean isWeekend) {

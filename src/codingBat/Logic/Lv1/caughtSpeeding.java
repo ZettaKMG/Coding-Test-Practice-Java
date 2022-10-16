@@ -1,4 +1,4 @@
-package codingBat.Logic.Lv1;
+package CodingBat.Logic.Lv1;
 
 public class caughtSpeeding {
 	public int caughtSpeeding(int speed, boolean isBirthday) {

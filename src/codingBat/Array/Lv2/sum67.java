@@ -1,4 +1,4 @@
-package codingBat.Array.Lv2;
+package CodingBat.Array.Lv2;
 
 public class sum67 {
 	public int sum67(int[] nums) {

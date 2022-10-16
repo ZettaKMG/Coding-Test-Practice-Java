@@ -1,4 +1,4 @@
-package codingBat.Map.Lv1;
+package CodingBat.Map.Lv1;
 
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package codingBat.Array.Lv2;
+package CodingBat.Array.Lv2;
 
 public class has22 {
 	public boolean has22(int[] nums) {

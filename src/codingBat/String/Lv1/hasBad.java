@@ -1,4 +1,4 @@
-package codingBat.String.Lv1;
+package CodingBat.String.Lv1;
 
 public class hasBad {
 	public boolean hasBad(String str) {

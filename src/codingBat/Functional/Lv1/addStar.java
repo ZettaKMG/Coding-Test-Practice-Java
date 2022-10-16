@@ -1,4 +1,4 @@
-package codingBat.Functional.Lv1;
+package CodingBat.Functional.Lv1;
 
 import java.util.List;
 

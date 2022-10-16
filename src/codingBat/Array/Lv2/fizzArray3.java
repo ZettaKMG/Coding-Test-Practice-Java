@@ -1,4 +1,4 @@
-package codingBat.Array.Lv2;
+package CodingBat.Array.Lv2;
 
 public class fizzArray3 {
 	public int[] fizzArray3(int start, int end) {

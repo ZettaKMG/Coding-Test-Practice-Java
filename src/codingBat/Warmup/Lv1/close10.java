@@ -1,4 +1,4 @@
-package codingBat.Warmup.Lv1;
+package CodingBat.Warmup.Lv1;
 
 public class close10 {
 	public int close10(int a, int b) {

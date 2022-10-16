@@ -1,4 +1,4 @@
-package codingBat.Array.Lv1;
+package CodingBat.Array.Lv1;
 
 public class makePi {
 	public int[] makePi() {

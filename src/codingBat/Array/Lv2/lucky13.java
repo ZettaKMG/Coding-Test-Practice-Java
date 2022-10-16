@@ -1,4 +1,4 @@
-package codingBat.Array.Lv2;
+package CodingBat.Array.Lv2;
 
 public class lucky13 {
 	public boolean lucky13(int[] nums) {

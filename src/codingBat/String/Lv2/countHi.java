@@ -1,4 +1,4 @@
-package codingBat.String.Lv2;
+package CodingBat.String.Lv2;
 
 public class countHi {
 	public int countHi(String str) {

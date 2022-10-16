@@ -1,4 +1,4 @@
-package codingBat.Array.Lv2;
+package CodingBat.Array.Lv2;
 
 public class centeredAverage {
 	public int centerAverage(int[] nums) {
